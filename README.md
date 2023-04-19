@@ -1,6 +1,6 @@
 ## Installation Manual
 
-- Clone it `https://github.com/Ibrahimhussien227/news-react-frontend.git`
+- Clone it `https://github.com/Ibrahimhussien227/currency-converter.git`
 - Create .env file.
 - Copy .env.example to .env file.
 - Run command `yarn install`
