@@ -1,6 +1,6 @@
 ## Demo
 
-[Live Demo Link](https://news-app-gray-one.vercel.app)
+[Live Demo Link](https://currency-converter-ebon-nu.vercel.app)
 
 ## Installation Manual
 
